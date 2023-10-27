@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520598740287",
+    "project_id": "fir-realtimelab21474",
+    "storage_bucket": "fir-realtimelab21474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520598740287:android:84c98751837af6a9e3478a",
+        "android_client_info": {
+          "package_name": "com.example.laboratorio8firebase21474"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcpQP5V2cy5bBkF4UbEZhoAoGp3Op7Gww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
