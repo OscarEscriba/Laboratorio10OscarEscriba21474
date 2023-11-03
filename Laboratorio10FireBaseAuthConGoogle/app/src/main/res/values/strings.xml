@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Laboratorio8FireBase21474</string> 
+    <string name="prefs_file">com.oscar.fiebasegoogle.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">
+fir-realtimelab21474
+</string>
+</resources>
