@@ -1,0 +1,6 @@
+# Laboratorio10OscarEscriba21474 
+Link del video de Lab10 Autenticacion con correo y contraseña... 
+https://youtube.com/shorts/rPfKUSGif4U?feature=share 
+
+link del video lab 10 Autenticacion con google y lab 11 de locacalización... 
+https://youtube.com/shorts/_HyGM9CgYf0?feature=share 
